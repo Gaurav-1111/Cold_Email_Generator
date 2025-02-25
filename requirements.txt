@@ -13,4 +13,4 @@ pandas-stubs
 python-dotenv
 sklearn-pandas
 sqlite3
-
+chromadb duckdb
