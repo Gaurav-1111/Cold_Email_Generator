@@ -10,6 +10,6 @@ pandas-gbq==0.27.0
 pandas-stubs==2.2.2.240909
 python-dotenv==1.0.1
 sklearn-pandas==2.2.0
-
+pysqlite==2.8.3
 
 
