@@ -12,4 +12,5 @@ pandas-gbq
 pandas-stubs
 python-dotenv
 sklearn-pandas
+sqlite3
 
