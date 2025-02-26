@@ -12,7 +12,7 @@ pandas-gbq
 pandas-stubs
 python-dotenv
 sklearn-pandas
-sqlite3
+pysqlite3
 chains
 portfolio
 utils
